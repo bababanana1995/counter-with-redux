@@ -1,0 +1,16 @@
+.settings {
+    height: 60%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 10px;
+    /*background: linear-gradient(#c6e4ee 0%, #c6e4ee 40%, #fed1ae 60%, #faa0b9 70%, #cb7dcb 80%, #757ecb 100%);*/
+    background: #c6e4ee;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
